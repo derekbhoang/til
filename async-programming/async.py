@@ -1,5 +1,6 @@
 import asyncio
 
+
 async def fetch_data(id, sleep_time):
     print(f"Coroutine {id} starting to fetch data.")
     await asyncio.sleep(sleep_time)
