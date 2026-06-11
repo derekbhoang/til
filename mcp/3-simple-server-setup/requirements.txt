@@ -1,0 +1,3 @@
+mcp
+python-dotenv
+nest-asyncio
